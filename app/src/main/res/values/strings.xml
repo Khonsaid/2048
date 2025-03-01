@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="gita"><a href="https://t.me/gitauz">- GITA dasturchilar akademiyasi</a></string>
+    <string name="me"><a href="https://t.me/xonsaid">- Xonsaid Abdujabborov</a></string>
+    <string name="description">\t\tUshbu ilova GITA dasturchilar akademiyasi Bootcamp 9 guruhi o\'quv jarayonida berilgan vazifalar asosida ishlab chiqiligan.</string>
+    <string name="txt_end">E\'tiboringiz uchun rahmat!</string>
+    <string name="txt_contacts">Biz bilan bog\'lanish</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="best">Best</string>
+    <string name="_2048">2048</string>
+</resources>

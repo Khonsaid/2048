@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_text">
+        <item name="android:fontFamily">@font/sheriff_bounce</item>
+        <item name="android:shadowColor">#CCFFFFFF</item>
+        <item name="android:shadowDx">4</item>
+        <item name="android:shadowDy">4</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
